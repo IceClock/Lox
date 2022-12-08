@@ -15,6 +15,7 @@ To create <b>SalmonPy</b> we used Robert Nystrom's book "<b>Crafting Interpreter
 - Abdulaziz Almousa
 - Hazem Tashkandi
 - Abel Andrés Ramírez Molina
+- Abdelhadi Hussein
 
 ## ¿Why SalmonPy?
 
